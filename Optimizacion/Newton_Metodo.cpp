@@ -27,6 +27,7 @@ int main()
     /*
     Estblecemos las variables que vamos a utilizar, asi como un error y un contador de iteraciones
     Esto para evitar que corra de manera infinita
+    Resultado es mi valor inicial de x0
     */
 
     float d0, d1, d2, resultado_inicial, resultado;
@@ -74,6 +75,7 @@ int main()
     Por ultimo, mostramos el resultado sustituyendo el valor de x en la función con el resultado
     */
 
-    resultado = 2 * (resultado * resultado) + 16 / resultado;
+    resultado = 2 * (resultado * resultado) + 16 / resultado; //Tambien podria poner d0
     cout << "El resultado es: " << resultado << endl;
 }
+ 

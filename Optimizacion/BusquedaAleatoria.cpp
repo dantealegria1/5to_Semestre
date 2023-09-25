@@ -59,7 +59,7 @@ int main()
     float function, resultado=1000000;
     int x1,x2;
 
-    for (int i = 0; i < 10001; i++)
+    for (int i = 0; i < 101; i++)
     {
         x1 = rand() % 1024-512;
         x2 = rand() % 1024-512;
