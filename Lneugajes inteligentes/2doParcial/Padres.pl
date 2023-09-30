@@ -13,7 +13,7 @@ padre(michael,yeyo).
 padre(michael,lili).
 
 % quinto nivel
-padre(lili,juan).
+padre(lili,andrea).
 padre(lili,maria).
 padre(yeyo,jonas).
 padre(yeyo,tim).
