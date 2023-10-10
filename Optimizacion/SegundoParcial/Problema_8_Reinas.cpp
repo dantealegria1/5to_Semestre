@@ -353,7 +353,7 @@ int main() {
         cout<<"Cuantas corridas quieres hacer, debe ser mayor a dos"<<endl;
         cin>>NumCorridas;
 
-         for (int i = 0; i < tamano_Poblacion; i++) {
+        for (int i = 0; i < tamano_Poblacion; i++) {
         string Individuo = inicializarMatriz(matriz);
         Individuo = "";
     }
@@ -397,4 +397,5 @@ int main() {
     }
     }while(opciones!=2);
     return 0;
+    
 }
