@@ -1,0 +1,194 @@
+Corvid Ver. 3.0.0
+2228584303679638034770125040532125381501328580242461876435872884068897010872660281280430695135667001246050002065020522488171347057800136623002768283072746354347274828040884339412065844047382032326921312711360527735744223808424151023078132122081864511156402515600655145601224543471345832004053003251870102230005416332
+
+
+
+
+False
+
+
+/CORVID/corvidsr
+
+
+
+False
+
+False
+255,255,255
+BCOLOR=255,255,255 FCOLOR=0,0,0 FONT=SANSERIF SIZE=12 STYLE=PLAIN POSITION=LEFT INDENT=5 CTRLW=25 CTRLR=5
+
+   OK   
+Back
+Restart
+True
+False
+ 1 
+RAZA
+ 0 
+La raza de perro es
+
+
+
+
+
+
+ 0 
+False
+False
+False
+False
+False
+False
+False
+
+False
+
+False
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 
+ 0 
+ 50 
+ 1 
+pendejo
+
+
+
+
+
+
+
+False
+False
+False
+False
+False
+
+
+
+
+
+ 0 
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+False
+ 0 
+False
+
+False
+ 0 
+ 0 
+False
+ 0 
+False
+ 0 
+False
+ 0 
+False
+False
+ 0 
+False
+ 0 
+False
+ 0 
+ 0 
+True
+ 0 
+
+ 50 
+ 1 
+ 0 
+ 1 
+ 1 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 1 
+ 2 
+C11:0
+ 2 
+ 2 
+-1 
+-1 
+
+ASK [RAZA]
+C12:0
+ 2 
+-1 
+-1 
+-1 
+
+EXIT
+
+ 0 
+ 0 
+ 0 
+DO_NOT_USE_THIS_NAME_TEMP_VAR_DISP
+ 0 
+ 0 
+
+

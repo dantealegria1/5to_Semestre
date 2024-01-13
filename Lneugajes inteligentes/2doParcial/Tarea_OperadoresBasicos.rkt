@@ -1,0 +1,13 @@
+#lang racket
+(+ 1 1)
+(/ 10 2)
+(* 20 5)
+(define p 2)
+(define (extrae str)
+  (substring str 0 p))
+(extrae "Hello")
+(define a 12)
+(define b 20)
+(define (suma a b)
+  (+ a b))
+(display "Hola, mundo!")

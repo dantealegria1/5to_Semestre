@@ -1,0 +1,2 @@
+#lang racket
+(if(string? n)(if(equal? "hola"(substring n 0 4))"hola, como estas" "perdon?")"no entiendo")

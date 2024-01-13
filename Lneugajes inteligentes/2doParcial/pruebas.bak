@@ -1,0 +1,3 @@
+#lang racket
+(define(extrae str)
+  (substring str 47))
